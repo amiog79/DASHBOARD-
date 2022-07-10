@@ -1746,9 +1746,6 @@ body.light ::-webkit-scrollbar-thumb {
     </div>
     </div>
     </div>
-    <video class="video-1" src="https://res.cloudinary.com/liquidtime/video/upload/v1655385934/abstract_fihenv.mp4" loop muted autoplay></video>
-    <video class="video-2" src="https://res.cloudinary.com/liquidtime/video/upload/v1655385877/dark_wave_irg2pp.mp4" loop muted
-        autoplay></video>
 
         <!-- <div class="dis-wrap">
             <p class="display">[Some text here for refrence]</p>
